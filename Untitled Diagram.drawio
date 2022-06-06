@@ -1,1 +1,232 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T03:07:25.304Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="18.2.0" etag="ODNH6NONYjJFebJJVk84" type="github"><diagram id="e51iBJt-67C7hQGlLdzy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-06T06:05:07.910Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="trajjs61IurLVeHDO7No" version="18.2.0" type="github">
+  <diagram id="e51iBJt-67C7hQGlLdzy" name="Page-1">
+    <mxGraphModel dx="1296" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-5" value="" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130.5" y="229.5" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-6" target="Z-JTcmq_7BSCA_aMIRcv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-6" value="" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130.5" y="339.5" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-9" value="诊间机器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140.5" y="299.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-10" value="住院机器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="410" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-11" target="Z-JTcmq_7BSCA_aMIRcv-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-43" value="门诊CDSS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z-JTcmq_7BSCA_aMIRcv-39">
+          <mxGeometry x="0.161" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-11" target="Z-JTcmq_7BSCA_aMIRcv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-44" value="住院CDSS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z-JTcmq_7BSCA_aMIRcv-40">
+          <mxGeometry x="0.5343" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-11" target="Z-JTcmq_7BSCA_aMIRcv-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-47" value="机构知识库平台" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z-JTcmq_7BSCA_aMIRcv-41">
+          <mxGeometry x="0.4852" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-11" target="Z-JTcmq_7BSCA_aMIRcv-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-46" value="医学检索" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z-JTcmq_7BSCA_aMIRcv-42">
+          <mxGeometry x="0.303" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-11" value="" style="shape=mxgraph.cisco.hubs_and_gateways.universal_gateway;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="339" y="410" width="54" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-14" target="Z-JTcmq_7BSCA_aMIRcv-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-14" value="" style="shape=mxgraph.cisco.servers.unity_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="200" width="50" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-15" value="CDSS（门诊&lt;br&gt;）服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="275.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-16" value="" style="shape=mxgraph.cisco.servers.unity_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="339" width="50" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-17" value="CDSS（住院&lt;br&gt;）服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="419" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.89;exitY=0.92;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-18" target="Z-JTcmq_7BSCA_aMIRcv-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="893" y="722.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-97" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;定时数据处理服务&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z-JTcmq_7BSCA_aMIRcv-69">
+          <mxGeometry x="0.5745" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-18" value="" style="shape=mxgraph.cisco.servers.unity_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="480" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-18" target="Z-JTcmq_7BSCA_aMIRcv-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-19" value="机构知识库服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="565" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-20" value="" style="shape=mxgraph.cisco.servers.unity_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="634" width="50" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-21" value="医学检索服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="719" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-22" value="负载均衡服务器&lt;br&gt;（前端项目）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="239" y="430" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.23;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-23" target="Z-JTcmq_7BSCA_aMIRcv-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-23" target="Z-JTcmq_7BSCA_aMIRcv-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="140" />
+              <mxPoint x="1170" y="140" />
+              <mxPoint x="1170" y="482" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-23" value="" style="shape=mxgraph.cisco.servers.unity_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="895" y="304" width="50" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-24" value="CDSS（门诊&lt;br&gt;）服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="940" y="356.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.23;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-25" target="Z-JTcmq_7BSCA_aMIRcv-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-25" target="Z-JTcmq_7BSCA_aMIRcv-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-25" value="" style="shape=mxgraph.cisco.servers.unity_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="895" y="480" width="50" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-26" value="CDSS（住院&lt;br&gt;）服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="945" y="523" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-27" target="Z-JTcmq_7BSCA_aMIRcv-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-92" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(248, 249, 250);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%95%B0%E6%8D%AE%E5%90%8C%E6%AD%A5%E6%9C%8D%E5%8A%A1%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221070%22%20y%3D%22160%22%20width%3D%2290%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z-JTcmq_7BSCA_aMIRcv-74">
+          <mxGeometry x="-0.0379" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-93" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(248, 249, 250);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%95%B0%E6%8D%AE%E5%90%8C%E6%AD%A5%E6%9C%8D%E5%8A%A1%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221070%22%20y%3D%22160%22%20width%3D%2290%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z-JTcmq_7BSCA_aMIRcv-74">
+          <mxGeometry x="-0.0259" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-94" value="数据同步服务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z-JTcmq_7BSCA_aMIRcv-74">
+          <mxGeometry x="-0.0617" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-27" value="" style="shape=mxgraph.cisco.servers.unity_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="182" width="50" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-35" value="" style="shape=mxgraph.cisco.servers.unity_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="690" width="50" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-48" target="Z-JTcmq_7BSCA_aMIRcv-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-60" value="知识服务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z-JTcmq_7BSCA_aMIRcv-58">
+          <mxGeometry x="-0.1839" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-48" target="Z-JTcmq_7BSCA_aMIRcv-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-61" value="知识服务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z-JTcmq_7BSCA_aMIRcv-59">
+          <mxGeometry x="-0.0996" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-48" value="" style="shape=mxgraph.cisco.hubs_and_gateways.universal_gateway;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="406" width="54" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-49" value="负载均衡服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="665" y="435" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-70" value="" style="shape=mxgraph.cisco.servers.storage_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1096" y="319.5" width="54" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-73" value="数据库服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1078" y="406" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-79" target="Z-JTcmq_7BSCA_aMIRcv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-79" value="" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130.5" y="510" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-80" value="管理员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="143" y="578" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z-JTcmq_7BSCA_aMIRcv-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-81" value="" style="shape=mxgraph.cisco.computers_and_peripherals.macintosh;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="128" y="607" width="99" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-82" value="知识维护员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="128" y="683" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-95" value="医学检索服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="160" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-96" value="机构知识库服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="770" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-99" value="推理服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1088" y="532" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z-JTcmq_7BSCA_aMIRcv-98" value="" style="shape=mxgraph.cisco.servers.storage_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1096" y="440" width="54" height="83" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
